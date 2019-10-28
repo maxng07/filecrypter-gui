@@ -14,6 +14,8 @@ The program uses AES-GCMSIV cipher suite with AES256 for encryption and the user
 
 <h2>Usage </h2>
 
+<h2> Performance </h2>
+Test has been done on MAC with iCORE7. A 2.5MB file took about approx 1s to complete encryption and a 10MB file took about less than 5s to complete encryption.
 
 <h2>Licensing </h2>
  All RIGHTS RESERVED.
