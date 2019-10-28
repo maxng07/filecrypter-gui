@@ -5,7 +5,7 @@ As the program is designed for user's local machine usage, a lot of thought proc
 1. Allowing the user to select the file
 2. Button to select Encryption or Decryption mode
 3. New file name for the file
-4. Password used to encrypt the file.
+4. Password used to encrypt the file. <br />
 A graphical pictorial is available <a href="https://github.com/maxng07/filecrypter-gui/blob/master/tutorial/filecrypt-gui.png"> here </a>
 
 FileCrypter-GUI uses the same cipher logic in FileCrypter program and add a WebServer layer to interface with the user's web browser. With this design, it is possible to encrypt with FileCrypter-GUI and decrypt with FileCrypter which is a CLI based program, and vice versa. Giving user full flexibility and a Local System Administrator flexibility to support the user base. And Enterprise version could be made available with more enhanced features set to fit the Enterprise's requirement.
