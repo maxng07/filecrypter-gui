@@ -26,7 +26,7 @@ The program uses AES-GCMSIV cipher suite with AES256 for encryption and the user
 You should see a webpage like this. <p>
 <img src="https://github.com/maxng07/filecrypter-gui/blob/master/tutorial/filecrypt-gui.png">
 
-The default behaviour of FileCrypter-GUI will save all encrypted or decrypted files in a folder called "cryto" if it is present. Otherwise, all files will be saved on the same folder where you place the package.
+If you preferred your encrypted and decrypted files to be created in a folder/directory, create a sub-folder or sub-directory underneath the directory where you place the package. Name this subdirectory as "crypto". FileCrypter-GUI will attempt to save all files underneath "crypto" sub-directory if present, otherwise all files will be saved in the same directory where FileCrypter-GUI package are.
 
 An animated tutorial has been created if you need help using the Web Page. You can refer it <a href="https://github.com/maxng07/filecrypter-gui/blob/master/tutorial/FileCrypt-mov.gif"> here. </a>
 
