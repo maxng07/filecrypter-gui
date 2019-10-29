@@ -9,7 +9,7 @@ As the program is designed to be used on user's local machine, a lot of thought 
 
 A graphical pictorial of the html page is shown below. For simplicity, this freeware today does not offer HTTPS as its meant for local machine usage or Small Office network. An Enterprise version with more features can be made available, please contact the author.
 
-#Overview
+# Overview
 FileCrypter-GUI uses the same cipher logic method used in FileCrypter program and add a WebServer layer. This allows the user to use their web browser they are familiar with to interact with the encryption program. With this design, it is possible to encrypt with FileCrypter-GUI and decrypt with FileCrypter CLI, and vice versa. Giving user full flexibility and the Local System Administrator flexibility to support their office user base. And Enterprise version could be made available with more enhanced features set to fit the Enterprise's requirement.
 
 The program uses AES-GCMSIV cipher suite with AES256 for encryption and the user's secret password is not stored within the encrypted file. The user needs to remember the password used to perform encryption on their files.
