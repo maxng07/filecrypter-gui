@@ -21,7 +21,7 @@ The program uses AES-GCMSIV cipher suite with AES256 for encryption and the user
 4. Config.json sets the basic configuration, you can edit it using a text editor. The default settings are pre-configured and you do not need to change it. If there is a need, you can edit config.json to change IP address and TCP port. </br>
 5. Launch Filecrypter program by double clicking on it in Windows, for MAC clicking on the program for Finder windows works too. <br>
 6. Launch your web browser, and use this in the address bar http://127.0.0.1:8888 and enter. <br>
-7. You should see a webpage like this. <br>
+You should see a webpage like this. <p>
 <img src="https://github.com/maxng07/filecrypter-gui/blob/master/tutorial/filecrypt-gui.png">
 
 An animated tutorial has been created if you need help using the Web Page. You can refer it <a href="https://github.com/maxng07/filecrypter-gui/blob/master/tutorial/FileCrypt-mov.gif"> here. </a>
