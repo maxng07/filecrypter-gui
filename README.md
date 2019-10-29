@@ -2,9 +2,9 @@
 FileCrypter-GUI is an extension of <a href="https://github.com/maxng07/FileCrypter"> FileCrypter Program </a> offering a WebApp GUI. This allows user to use their web browser to select file for encryption and decryption with a Passphrase of their choice. The program is designed for user's local machine usage, and also possible within the small office Local Area Network. However, it is not recommended for Cloud deployment outside their premise. For a typical cloud or cross network deployment, more work needs to be done including adding HTTPS support, multi CORE support for multi users. FileCrypter-GUI can be quickly extended to do that. 
 
 As the program is designed to be used on user's local machine, a lot of thought processes and designs are considered on FileCrypter-GUI to be memory and CPU efficient, and user friendliness. A simple HTML webpage with a form captures the essential information needed to perform encryption or decryption including, 
-1. Allowing the user to select the file
+1. Browsing function, Allowing the user to select their file
 2. Button to select Encryption or Decryption mode
-3. New file name for the file
+3. New file name for their file
 4. Password used to encrypt the file. <br>
 
 A graphical pictorial of the html page is shown below. For simplicity, this freeware today does not offer HTTPS as its meant for local machine usage or Small Office network. An Enterprise version with more features can be made available, please contact the author.
