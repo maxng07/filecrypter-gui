@@ -23,7 +23,7 @@ The program uses AES-GCMSIV cipher suite with AES256 for encryption and the user
 4. Config.json sets the basic configuration, you can edit it using a text editor. The default settings are pre-configured and you do not need to change it. If there is a need, you can edit config.json to change IP address and TCP port. </br>
 5. Launch Filecrypter program by double clicking on it in Windows, for MAC clicking on the program from Finder window works too. <br>
 6. Launch your web browser, and input this in the address bar http://127.0.0.1:8888 and enter. <br>
-You should see a webpage like this. <p>
+You should see a webpage like below. <p>
 <img src="https://github.com/maxng07/filecrypter-gui/blob/master/tutorial/filecrypt-gui.png">
 
 If you preferred your encrypted and decrypted files to be created in a folder/directory, create a sub-folder or sub-directory underneath the directory where you place the package. Name this subdirectory as "crypto". FileCrypter-GUI will attempt to save all files underneath "crypto" sub-directory if present, otherwise all files will be saved in the same directory where FileCrypter-GUI package are.
